@@ -1,6 +1,5 @@
 {
-  "result": {
-    "records": [
+  "records": [
       {
         "ID": "1",
         "Name": "Test"
@@ -10,5 +9,4 @@
         "Name": "Demo"
       }
     ]
-  }
 }
